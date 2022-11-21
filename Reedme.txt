@@ -1,0 +1,7 @@
+Recorte.py - Funciones de recorte y picado sta/lta
+fx.py - Funcion de estimación de distancia, usa modelo bueno.h5
+funcion_BAZ.py - Funcion estimacion back azimuth, usa modelo modelo_usar.h5
+
+Las carpetas Funciones, nuevos_xml y data son las utilizadas principalmente
+
+Union.py - script que corre las estimaciones sobre toda la traza de 2hr
